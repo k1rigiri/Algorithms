@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618052571 source:c:\users\kirigiri\desktop\abyss\university\alg\baka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

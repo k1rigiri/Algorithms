@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621681990 source:c:\users\kirigiri\desktop\abyss\university\alg\binar_three\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<time.h>
+

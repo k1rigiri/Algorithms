@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621685213 source:c:\users\kirigiri\desktop\abyss\university\alg\hash_table\main.cpp
+	<iostream>
+	<fstream>
+	<malloc.h>
+
